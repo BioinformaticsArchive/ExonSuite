@@ -1,0 +1,3 @@
+Download the input files from the GitHub, and compile ExonSuite. For the filename
+given, simply execute runFullGenome(path to filename).
+
